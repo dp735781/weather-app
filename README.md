@@ -31,3 +31,5 @@ CSS
 JavaScript
 
 Weather API (e.g., OpenWeatherMap)
+#OUTPUT
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/76ddc574-0537-43d5-b9f2-b486af7e920b" />
